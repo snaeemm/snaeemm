@@ -61,7 +61,7 @@ I had the privilege of appearing on the **AI IXX Podcast**, where I shared my jo
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -91,8 +91,9 @@ I had the privilege of appearing on the **AI IXX Podcast**, where I shared my jo
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
   <a href="https://n8n.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/public/n8n-icon.svg" alt="n8n" width="40" height="40"/> 
-</a> 
+    <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/n8n.svg" alt="n8n" width="40" height="40"/> 
+  </a> 
+
 
   
 </p>
