@@ -1,19 +1,24 @@
 [![MasterHead](https://github.com/snaeemm/snaeemm/blob/main/gif4.gif?raw=true)](https://github.com)
 
-<h1 align="center">Hi there 👋, I'm Shahzeb Naeem</h1>
-<h3 align="center">A tech enthusiast, interested in further exploring the field of Artificial Intelligence, Machine and Deep Learning as a passion, whilst also being involved in the latest trends in smart technology, exhibiting leadership and team-player qualities.</h3>
+# Hi there 👋, I'm Shahzeb Naeem
+### A tech enthusiast, interested in further exploring the field of Artificial Intelligence, Machine and Deep Learning as a passion, whilst also being involved in the latest trends in smart technology, exhibiting leadership and team-player qualities.
 
-<h3 align="left">Podcast</h3>
-<p align="left">
-  🎙️ Was thrilled to have been invited to the AI IXX podcast! 🚀<br>
-  In the episode, I shared my journey through the tech world, from my early days to my current role. We also dove into my thoughts on emerging tech and the latest AI trends.<br>
-  Check it out to hear about my experiences and perspectives on what’s next in the world of technology!
-</p>
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=ABo4X9GGoOg" target="_blank">
-    <img src="https://img.youtube.com/vi/ABo4X9GGoOg/hqdefault.jpg" alt="Podcast Thumbnail" width="400" />
-  </a>
-</p>
+---
+
+### Podcasts
+#### Reach 4 Growth Podcast
+I was honored to join Mohamed Gamal, EMBA, Director of Growth Marketing Sports at GMG, on the **Reach 4 Growth Podcast**. We discussed the transformative impact of AI in business, career enhancement strategies, and more. This insightful conversation offers valuable perspectives for professionals aiming to elevate their journey.  
+<a href="https://www.youtube.com/watch?v=baJlc7MNefQ" target="_blank">
+  <img src="https://img.youtube.com/vi/baJlc7MNefQ/hqdefault.jpg" alt="Reach 4 Growth Podcast Thumbnail" width="400" />
+</a>
+
+#### AI IXX Podcast
+I had the privilege of appearing on the **AI IXX Podcast**, where I shared my journey through the tech world, from my early days to my current role. We explored emerging technologies, the latest AI trends, and my vision for the future of innovation.  
+<a href="https://www.youtube.com/watch?v=ABo4X9GGoOg" target="_blank">
+  <img src="https://img.youtube.com/vi/ABo4X9GGoOg/hqdefault.jpg" alt="Podcast Thumbnail" width="400" />
+</a>
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -21,7 +26,7 @@
 
 <p align="left"> <a href="https://twitter.com/snaeemnm" target="blank"><img src="https://img.shields.io/twitter/follow/snaeemnm?logo=twitter&style=for-the-badge" alt="snaeemnm" /></a> </p>
 
-- 📫 How to reach me **shahzebnaeemminhas@gmail.com**
+- 📫 How to reach me **snaeemnm@gmail.com**
 
 - ⚡ Fun fact **I may look nerdy, but I do play sports when given the time :)**
 
@@ -70,7 +75,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
   <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
@@ -83,6 +90,11 @@
   <a href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/public/n8n-icon.svg" alt="n8n" width="40" height="40"/> 
+</a> 
+
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snaeemm&show_icons=true&locale=en&layout=compact" alt="snaeemm" /></p>
