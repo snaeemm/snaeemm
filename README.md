@@ -2,7 +2,7 @@
 
 <a href="https://shahzeb-naeem.vercel.app"><img src="assets/hero.png" alt="Shahzeb Naeem. Technology, Strategy and Management." width="100%"></a>
 
-**[Portfolio](https://shahzeb-naeem.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/snaeemm/)** &nbsp;·&nbsp; **[Google Scholar](https://scholar.google.com/citations?user=mcm907QAAAAJ&hl=en)** &nbsp;·&nbsp; **[Email](mailto:snaeemnm@gmail.com)**
+**[Portfolio](https://shahzeb-naeem.vercel.app)** &nbsp;·&nbsp; **[Résumé](Shahzeb_Naeem_Resume.pdf)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/snaeemm/)** &nbsp;·&nbsp; **[Google Scholar](https://scholar.google.com/citations?user=mcm907QAAAAJ&hl=en)** &nbsp;·&nbsp; **[Email](mailto:snaeemnm@gmail.com)**
 
 </div>
 
@@ -77,6 +77,6 @@ Five peer-reviewed papers on deepfakes, synthetic faces and adversarial attacks.
 
 <div align="center">
 
-**[✉ snaeemnm@gmail.com](mailto:snaeemnm@gmail.com)** &nbsp;·&nbsp; **[📞 +971 55 211 0534](tel:+971552110534)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/snaeemm/)** &nbsp;·&nbsp; **[Portfolio](https://shahzeb-naeem.vercel.app)**
+**[✉ snaeemnm@gmail.com](mailto:snaeemnm@gmail.com)** &nbsp;·&nbsp; **[📞 +971 55 211 0534](tel:+971552110534)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/snaeemm/)** &nbsp;·&nbsp; **[Résumé](Shahzeb_Naeem_Resume.pdf)** &nbsp;·&nbsp; **[Portfolio](https://shahzeb-naeem.vercel.app)**
 
 </div>
