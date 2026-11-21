@@ -24,8 +24,8 @@
 <td width="50%"><a href="https://shahzeb-naeem.vercel.app/en/work/china-gcc-sourcing"><img src="assets/c-gcc.png" alt="China-GCC AI Sourcing Platform"></a></td>
 </tr>
 <tr>
-<td>A cited, honest property assistant over 60,000 Wasalt listings, built end to end in a day. <a href="https://darglobal-concierge.onrender.com"><b>Live demo →</b></a></td>
-<td>A clickable concept for evidence-first supplier sourcing, from intake to RFQ draft. All data is fictional and labelled as such.</td>
+<td>A cited, honest property assistant over 60,000 Wasalt listings, built end to end in a day. <a href="https://darglobal-concierge.onrender.com"><b>Live demo →</b></a> &nbsp; <a href="https://github.com/snaeemm/darglobal-property-concierge"><b>Code →</b></a></td>
+<td>A clickable concept for evidence-first supplier sourcing, from intake to RFQ draft. All data is fictional and labelled as such. <a href="https://github.com/snaeemm/china-gcc-ai-sourcing"><b>Code →</b></a></td>
 </tr>
 </table>
 
