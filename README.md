@@ -1,105 +1,82 @@
-[![MasterHead](https://github.com/snaeemm/snaeemm/blob/main/gif4.gif?raw=true)](https://github.com)
+<div align="center">
 
-# Hi there 👋, I'm Shahzeb Naeem
-### A tech enthusiast, interested in further exploring the field of Artificial Intelligence, Machine and Deep Learning as a passion, whilst also being involved in the latest trends in smart technology, exhibiting leadership and team-player qualities.
+<a href="https://shahzeb-naeem.vercel.app"><img src="assets/hero.png" alt="Shahzeb Naeem. Technology, Strategy and Management." width="100%"></a>
 
----
+**[Portfolio](https://shahzeb-naeem.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/snaeemm/)** &nbsp;·&nbsp; **[Google Scholar](https://scholar.google.com/citations?user=mcm907QAAAAJ&hl=en)** &nbsp;·&nbsp; **[Email](mailto:snaeemnm@gmail.com)**
 
-### Podcasts
-#### Reach 4 Growth Podcast
-I was honored to join Mohamed Gamal, EMBA, Director of Growth Marketing Sports at GMG, on the **Reach 4 Growth Podcast**. We discussed the transformative impact of AI in business, career enhancement strategies, and more. This insightful conversation offers valuable perspectives for professionals aiming to elevate their journey.  
-<a href="https://www.youtube.com/watch?v=baJlc7MNefQ" target="_blank">
-  <img src="https://img.youtube.com/vi/baJlc7MNefQ/hqdefault.jpg" alt="Reach 4 Growth Podcast Thumbnail" width="400" />
-</a>
+</div>
 
-#### AI IXX Podcast
-I had the privilege of appearing on the **AI IXX Podcast**, where I shared my journey through the tech world, from my early days to my current role. We explored emerging technologies, the latest AI trends, and my vision for the future of innovation.  
-<a href="https://www.youtube.com/watch?v=ABo4X9GGoOg" target="_blank">
-  <img src="https://img.youtube.com/vi/ABo4X9GGoOg/hqdefault.jpg" alt="Podcast Thumbnail" width="400" />
-</a>
+<img src="assets/pillars.png" alt="Business. Technology. Strategy. People." width="100%">
 
----
+<a href="https://shahzeb-naeem.vercel.app/en#work"><img src="assets/h-work.png" alt="01 Selected work. Real work. Working proof." width="100%"></a>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<table>
+<tr>
+<td width="50%"><a href="https://shahzeb-naeem.vercel.app/en#work"><img src="assets/c-granite.png" alt="Granite App"></a></td>
+<td width="50%"><a href="https://shahzeb-naeem.vercel.app/en/work/moe-arabic-sign-language"><img src="assets/c-sign.png" alt="Arabic Sign Language Lesson Generator"></a></td>
+</tr>
+<tr>
+<td>Eight tools, one client team. An in-house agentic app that files email and meetings by client, builds quotes from the rate card, and turns "which clients need attention this week?" into a presentation. <i>Built at Granite MENA, so there is no public code.</i></td>
+<td>Source-traceable sign-language lessons built from approved material, with a human review gate. 86.4% verified sign coverage on the demonstrated lesson. <a href="https://github.com/snaeemm/ESL"><b>Code →</b></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://shahzeb-naeem.vercel.app/en/work/darglobal-property-concierge"><img src="assets/c-dar.png" alt="DarGlobal Property Concierge"></a></td>
+<td width="50%"><a href="https://shahzeb-naeem.vercel.app/en/work/china-gcc-sourcing"><img src="assets/c-gcc.png" alt="China-GCC AI Sourcing Platform"></a></td>
+</tr>
+<tr>
+<td>A cited, honest property assistant over 60,000 Wasalt listings, built end to end in a day. <a href="https://darglobal-concierge.onrender.com"><b>Live demo →</b></a></td>
+<td>A clickable concept for evidence-first supplier sourcing, from intake to RFQ draft. All data is fictional and labelled as such.</td>
+</tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snaeemm&label=Profile%20views&color=0e75b6&style=flat" alt="snaeemm" /> </p>
+<details>
+<summary><b>Watch them move</b></summary>
+<br>
 
-<p align="left"> <a href="https://twitter.com/snaeemnm" target="blank"><img src="https://img.shields.io/twitter/follow/snaeemnm?logo=twitter&style=for-the-badge" alt="snaeemnm" /></a> </p>
+| Granite App | DarGlobal Concierge | Arabic Sign Language |
+|---|---|---|
+| <img src="assets/demo-granite.gif" width="300"> | <img src="assets/demo-darglobal.gif" width="300"> | <img src="assets/demo-sign.gif" width="300"> |
 
-- 📫 How to reach me **snaeemnm@gmail.com**
+</details>
 
-- ⚡ Fun fact **I may look nerdy, but I do play sports when given the time :)**
+**Also built:** CivicFlow (policy-gated municipal workflows), Arabic Speech Intelligence and Football Analytics. [See them all →](https://shahzeb-naeem.vercel.app/en#work)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/snaeemm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snaeemm" height="30" width="40" /></a>
-<a href="https://twitter.com/snaeemnm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snaeemnm" height="30" width="40" /></a>
-<a href="https://instagram.com/shuttermylens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuttermylens" height="30" width="40" /></a>
-</p>
+<a href="https://shahzeb-naeem.vercel.app/en#experience"><img src="assets/h-exp.png" alt="02 Experience and education. What I've delivered." width="100%"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/n8n.svg" alt="n8n" width="40" height="40"/> 
-  </a> 
+<img src="assets/exp.png" alt="Experience and education" width="100%">
+<img src="assets/awards.png" alt="Challenge wins" width="100%">
+
+<a href="https://shahzeb-naeem.vercel.app/en#research"><img src="assets/h-res.png" alt="03 Research. Published. Peer-reviewed." width="100%"></a>
+
+<a href="https://ieeexplore.ieee.org/document/11105553"><img src="assets/res.png" alt="Featured paper: Generation and Detection of Sign Language Deepfakes" width="100%"></a>
+
+Five peer-reviewed papers on deepfakes, synthetic faces and adversarial attacks. [Full list on Google Scholar →](https://scholar.google.com/citations?user=mcm907QAAAAJ&hl=en)
+
+<a href="https://shahzeb-naeem.vercel.app/en#media"><img src="assets/h-talk.png" alt="04 Speaking and media. On stage. On record." width="100%"></a>
+
+<img src="assets/talk.png" alt="Speaking at Data Science Week, IREIS and Dubai Silicon Oasis" width="100%">
+
+<table>
+<tr>
+<td width="50%"><a href="https://www.youtube.com/watch?v=baJlc7MNefQ"><img src="https://img.youtube.com/vi/baJlc7MNefQ/hqdefault.jpg" alt="Reach 4 Growth Podcast"></a><br><b>Master AI, Master Your Career</b><br>Reach 4 Growth Podcast, Ep. 9</td>
+<td width="50%"><a href="https://www.youtube.com/watch?v=ABo4X9GGoOg"><img src="https://img.youtube.com/vi/ABo4X9GGoOg/hqdefault.jpg" alt="AI IXX Podcast"></a><br><b>How AI is Transforming the Future</b><br>AI IXX</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-08090b?style=flat-square&logo=python&logoColor=5ad1ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-08090b?style=flat-square&logo=pytorch&logoColor=5ad1ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-08090b?style=flat-square&logo=tensorflow&logoColor=5ad1ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-08090b?style=flat-square&logo=fastapi&logoColor=5ad1ff)
+![Svelte](https://img.shields.io/badge/Svelte-08090b?style=flat-square&logo=svelte&logoColor=5ad1ff)
+![C++](https://img.shields.io/badge/C%2B%2B-08090b?style=flat-square&logo=cplusplus&logoColor=5ad1ff)
 
 
-  
-</p>
+<img src="assets/contact.png" alt="Let's talk. Email, phone, Google Scholar, GitHub, LinkedIn." width="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snaeemm&show_icons=true&locale=en&layout=compact" alt="snaeemm" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snaeemm&show_icons=true&locale=en" alt="snaeemm" /></p>
+**[✉ snaeemnm@gmail.com](mailto:snaeemnm@gmail.com)** &nbsp;·&nbsp; **[📞 +971 55 211 0534](tel:+971552110534)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/snaeemm/)** &nbsp;·&nbsp; **[Portfolio](https://shahzeb-naeem.vercel.app)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snaeemm&" alt="snaeemm" /></p>
+</div>
