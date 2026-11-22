@@ -60,6 +60,7 @@ Football Analytics · <i>model work, no public demo</i><br><br>
 
 | Year | Paper | Venue |
 |---|---|---|
+| 2025 | **[Generation and Detection of Sign Language Deepfakes: A Linguistic and Visual Analysis](https://ieeexplore.ieee.org/document/11105553)** | IEEE TCSS |
 | 2025 | **Real, Fake, and Synthetic-Adversarial Attacks on Three Sides of the Coin** | IEEE ICIPW |
 | 2024 | **Discrimination of Real and Deep Fake Videos using EEG Signals** | IEEE EMBC |
 | 2024 | **[Real, Fake and Synthetic Faces: Does the Coin Have Three Sides?](https://ieeexplore.ieee.org/document/10581973)** | IEEE FG |
