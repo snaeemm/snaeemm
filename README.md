@@ -6,6 +6,8 @@
 
 </div>
 
+AI consultant and leader. I take AI from the first client conversation to delivery, and I build what I advise on: agentic AI and retrieval-augmented generation, Azure AI and MLOps, responsible AI, and Arabic and bilingual systems. MSc in Electrical Engineering (AI), published in IEEE and ACM venues, based in the UAE.
+
 <a href="https://shahzeb-naeem.vercel.app/en#work"><img src="assets/h-work.png" alt="01 Selected work. What I've delivered." width="100%"></a>
 
 <table>
@@ -23,7 +25,7 @@
 </tr>
 <tr>
 <td>A cited, honest property assistant over 60,000 Wasalt listings, built end to end in a day. <a href="https://darglobal-concierge.onrender.com"><b>Live demo →</b></a> &nbsp; <a href="https://github.com/snaeemm/darglobal-property-concierge"><b>Code →</b></a></td>
-<td>Catches document problems at intake instead of after a second review. 38.5% of synthetic cases loop back into document review. An independent proof of concept, not affiliated with Dubai Municipality or any vendor.</td>
+<td>Catches document problems at intake instead of after a second review. 38.5% of synthetic cases loop back into document review. Built as a pitch to ARIS, based on its published Dubai Municipality case study. Not an ARIS or Dubai Municipality product.</td>
 </tr>
 <tr>
 <td width="50%"><a href="https://shahzeb-naeem.vercel.app/en/work/china-gcc-sourcing"><img src="assets/c-gcc.png" alt="China-GCC AI Sourcing Platform"></a></td>
@@ -49,6 +51,16 @@ Football Analytics · <i>model work, no public demo</i><br><br>
 | <img src="assets/demo-granite.gif" width="300"> | <img src="assets/demo-darglobal.gif" width="300"> | <img src="assets/demo-sign.gif" width="300"> |
 
 </details>
+
+## Newest: Gov Policy Copilot
+
+<a href="https://shahzeb-naeem.vercel.app/en/work/gov-policy-copilot"><img src="assets/c-govcopilot.png" alt="Gov Policy Copilot, ask about UAE AI and data policy" width="100%"></a>
+
+A bilingual (Arabic and English) RAG assistant over UAE AI and data policy documents, built on Azure in UAE North as a reference implementation of governed GenAI in government. Every sentence is cited, answers are checked for groundedness, and low-confidence answers go to a human reviewer. Safety filters, PII masking, an evaluation gate in the release pipeline, and decision records, a threat model and a runbook for a government reviewer. Groundedness 0.98, 23 of 24 red-team attacks handled, about $0.0017 per question.
+
+**[Case study →](https://shahzeb-naeem.vercel.app/en/work/gov-policy-copilot)** &nbsp;·&nbsp; **[Code →](https://github.com/snaeemm/gov-policy-copilot)** &nbsp;·&nbsp; **[Demo film →](https://github.com/snaeemm/gov-policy-copilot/blob/main/docs/demo/gov-policy-copilot-demo.mp4)**
+
+<img src="assets/demo-govcopilot.gif" alt="Gov Policy Copilot in use" width="640">
 
 <img src="assets/how.png" alt="How I work. Hear it, simplify it, pitch it, land it." width="100%">
 
