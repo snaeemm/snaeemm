@@ -42,6 +42,17 @@ Football Analytics · <i>model work, no public demo</i><br><br>
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%"><a href="https://shahzeb-naeem.vercel.app/en/work/gov-policy-copilot"><img src="assets/c-govcopilot.png" alt="Gov Policy Copilot"></a></td>
+<td width="50%"><a href="https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot"><img src="assets/c-comms-copilot.png" alt="Communications Intelligence Copilot"></a></td>
+</tr>
+<tr>
+<td>A bilingual Arabic and English RAG assistant over UAE AI and data policy, built on Azure in UAE North. Every sentence is cited, answers are checked for groundedness, and low-confidence answers go to a human reviewer. An evaluation gate in the release pipeline blocks a quality drop. Groundedness 0.98, 23 of 24 red-team attacks handled, about $0.0017 a question. <a href="https://shahzeb-naeem.vercel.app/en/work/gov-policy-copilot"><b>Case study →</b></a> &nbsp; <a href="https://github.com/snaeemm/gov-policy-copilot"><b>Code →</b></a> &nbsp; <a href="https://github.com/snaeemm/gov-policy-copilot/blob/main/docs/demo/gov-policy-copilot-demo.mp4"><b>Demo film →</b></a></td>
+<td>A rules-based workflow that turns approved key messages and published coverage into a reviewed, evidence-backed briefing. Not a language model, so it behaves the same on every run. Every quote is checked against its article, every finding is reviewed by a person, and every decision goes on an audit trail. Built for Ruder Finn Atteline on synthetic data, not an Atteline product. <a href="https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot"><b>Case study →</b></a> &nbsp; <a href="https://github.com/snaeemm/communications-intelligence-copilot"><b>Code →</b></a></td>
+</tr>
+</table>
+
 <details>
 <summary><b>Watch them move</b></summary>
 <br>
@@ -50,29 +61,24 @@ Football Analytics · <i>model work, no public demo</i><br><br>
 |---|---|---|
 | <img src="assets/demo-granite.gif" width="300"> | <img src="assets/demo-darglobal.gif" width="300"> | <img src="assets/demo-sign.gif" width="300"> |
 
+
+| Gov Policy Copilot | Communications Intelligence Copilot |
+|---|---|
+| <img src="assets/demo-govcopilot.gif" width="300"> | <img src="assets/demo-comms-copilot.gif" width="300"> |
+
 </details>
 
-## Newest: Gov Policy Copilot
-
-<a href="https://shahzeb-naeem.vercel.app/en/work/gov-policy-copilot"><img src="assets/c-govcopilot.png" alt="Gov Policy Copilot, ask about UAE AI and data policy" width="100%"></a>
-
-A bilingual (Arabic and English) RAG assistant over UAE AI and data policy documents, built on Azure in UAE North as a reference implementation of governed GenAI in government. Every sentence is cited, answers are checked for groundedness, and low-confidence answers go to a human reviewer. Safety filters, PII masking, an evaluation gate in the release pipeline, and decision records, a threat model and a runbook for a government reviewer. Groundedness 0.98, 23 of 24 red-team attacks handled, about $0.0017 per question.
-
-**[Case study →](https://shahzeb-naeem.vercel.app/en/work/gov-policy-copilot)** &nbsp;·&nbsp; **[Code →](https://github.com/snaeemm/gov-policy-copilot)** &nbsp;·&nbsp; **[Demo film →](https://github.com/snaeemm/gov-policy-copilot/blob/main/docs/demo/gov-policy-copilot-demo.mp4)**
-
-<img src="assets/demo-govcopilot.gif" alt="Gov Policy Copilot in use" width="640">
-
-## Also new: Communications Intelligence Copilot
-
-<a href="https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot"><img src="assets/c-comms-copilot.png" alt="Communications Intelligence Copilot" width="100%"></a>
-
-A proof of concept built for Ruder Finn Atteline that turns approved key messages and published coverage into a reviewed, evidence-backed briefing. A rules-based engine, not a language model, so it behaves the same on every run. Every quote is checked against its article, every finding is reviewed by a person, and every decision goes on an audit trail. Synthetic data, not an Atteline product.
-
-**[Case study and narrated demo film →](https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot)** &nbsp;·&nbsp; **[Code →](https://github.com/snaeemm/communications-intelligence-copilot)**
-
-<img src="assets/demo-comms-copilot.gif" alt="Communications Intelligence Copilot in use" width="640">
-
 <img src="assets/how.png" alt="How I work. Hear it, simplify it, pitch it, land it." width="100%">
+
+<img src="assets/h-range.png" alt="Range. I consult and lead. And I can build it." width="100%">
+
+| How I consult and lead | What I build |
+|---|---|
+| **AI consulting and discovery.** Starting from the client's real pain point, then turning requirements into proposed AI capabilities and use cases. | **Agentic AI and RAG.** A multi-agent platform used daily by internal teams, hybrid retrieval with rank fusion and re-ranking, tool-using agents. |
+| **Pre-sales and pitching.** Shaping the solution and the pitch with the client and the sales and technical teams. | **Azure AI, MLOps and LLMOps.** Azure OpenAI, AI Search and Machine Learning, MLflow, Bicep, release pipelines that block a deployment when answer quality drops. |
+| **AI delivery from the business side.** Leading delivery of an AED 1.5M+ programme with C-suite and VP-level stakeholders. | **Responsible and governed AI.** Content safety, PII masking, human review and audit trails, mapped to the UAE AI Charter and PDPL. |
+| **Partnerships and a public voice.** AI20 Summit partnerships, panels and podcasts on AI. | **Arabic and bilingual AI.** Arabic and English retrieval, Bahraini-dialect speech, sign-language education. |
+| **Teams and mentoring.** Led an explainable-AI clinical decision support team, mentored 60+ students a semester. | **Computer vision and forecasting.** YOLO detection and tracking, deepfake research published in IEEE, LSTM forecasting. |
 
 <a href="https://shahzeb-naeem.vercel.app/en#research"><img src="assets/h-res.png" alt="02 Research. Published. Peer-reviewed." width="100%"></a>
 
