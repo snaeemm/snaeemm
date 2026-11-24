@@ -68,7 +68,7 @@ A bilingual (Arabic and English) RAG assistant over UAE AI and data policy docum
 
 A proof of concept built for Ruder Finn Atteline that turns approved key messages and published coverage into a reviewed, evidence-backed briefing. A rules-based engine, not a language model, so it behaves the same on every run. Every quote is checked against its article, every finding is reviewed by a person, and every decision goes on an audit trail. Synthetic data, not an Atteline product.
 
-**[Case study and narrated demo film →](https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot)**
+**[Case study and narrated demo film →](https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot)** &nbsp;·&nbsp; **[Code →](https://github.com/snaeemm/communications-intelligence-copilot)**
 
 <img src="assets/demo-comms-copilot.gif" alt="Communications Intelligence Copilot in use" width="640">
 
