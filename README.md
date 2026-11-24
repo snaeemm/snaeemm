@@ -62,6 +62,16 @@ A bilingual (Arabic and English) RAG assistant over UAE AI and data policy docum
 
 <img src="assets/demo-govcopilot.gif" alt="Gov Policy Copilot in use" width="640">
 
+## Also new: Communications Intelligence Copilot
+
+<a href="https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot"><img src="assets/c-comms-copilot.png" alt="Communications Intelligence Copilot" width="100%"></a>
+
+A proof of concept built for Ruder Finn Atteline that turns approved key messages and published coverage into a reviewed, evidence-backed briefing. A rules-based engine, not a language model, so it behaves the same on every run. Every quote is checked against its article, every finding is reviewed by a person, and every decision goes on an audit trail. Synthetic data, not an Atteline product.
+
+**[Case study and narrated demo film →](https://shahzeb-naeem.vercel.app/en/work/communications-intelligence-copilot)**
+
+<img src="assets/demo-comms-copilot.gif" alt="Communications Intelligence Copilot in use" width="640">
+
 <img src="assets/how.png" alt="How I work. Hear it, simplify it, pitch it, land it." width="100%">
 
 <a href="https://shahzeb-naeem.vercel.app/en#research"><img src="assets/h-res.png" alt="02 Research. Published. Peer-reviewed." width="100%"></a>
